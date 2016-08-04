@@ -1,0 +1,26 @@
+_repo: Young-Adventure--A-Book-of-Poems_312
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Benét, Stephen Vincent
+    alias: Benet, Stephen Vincent
+    birthdate: 1898
+    deathdate: 1943
+    gutenberg_agent_id: '174'
+    url: http://www.gutenberg.org/2009/agents/174
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Vincent_Benét
+description: ''
+gutenberg_issued: '1995-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '312'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry'
+- GITenberg
+title: 'Young Adventure: A Book of Poems'
+url: http://www.gutenberg.org/ebooks/312
